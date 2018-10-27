@@ -86,6 +86,7 @@ const technologies = [
   { name: "OpenStack", released: new Date(2010, 9, 21), icon: "openstack" },
   { name: "pandas", released: new Date(2008, 1, 11) },
   { name: "Perl", released: new Date(1987, 12, 18) },
+  { name: "Perl 6", released: new Date(2015, 12, 25) },
   { name: "PHP", released: new Date(1995, 5, 8), icon: "php" },
   { name: "PostgreSQL", released: new Date(1996, 6, 8) },
   { name: "Preact", released: new Date(2015, 8, 11) },
